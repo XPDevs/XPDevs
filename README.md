@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://xpdevs.github.io/logo/XPDevs.png" alt="XPDevs" width="100%" />
+  <img src="https://xpdevs.github.io/logo/XPDevs_horizontal_typeography_logo.png" alt="XPDevs" width="100%" />
 </p>
 
 <h1 align="center">XPDevs</h1>
