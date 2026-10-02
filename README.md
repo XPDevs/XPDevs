@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://XPDevs.github.io/">Website</a>
   ·
-  <a href="https://www.linkedin.com/in/youniss/">Github</a>
   ·
   <a href="https://huggingface.co/XPDevs">Hugging Face</a>
 </p>
